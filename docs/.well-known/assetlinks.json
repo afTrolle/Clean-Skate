@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.cleanskate.android",
+      "sha256_cert_fingerprints": [
+        "78:5A:71:3C:A7:02:F5:A5:22:05:2C:0A:BD:16:B1:B8:BF:06:7F:52:02:3F:C2:46:7F:94:48:34:E9:83:86:9D"
+      ]
+    }
+  }
+]
